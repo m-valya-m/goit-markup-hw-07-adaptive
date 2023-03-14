@@ -857,7 +857,7 @@ img {
       rgba(47, 48, 58, 0.4),
       rgba(47, 48, 58, 0.4)
     ),
-    url(../images/mobhero-x1.jpg);
+    url(../img/mobhero-x1.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -871,7 +871,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/mobhero-x2.jpg);
+      url(../img/mobhero-x2.jpg);
   }
 }
 
@@ -881,7 +881,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/tablethero-x1.jpg);
+      url(../img/tablethero-x1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -896,7 +896,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/tablethero-x2.jpg);
+      url(../img/tablethero-x2.jpg);
   }
 }
 
@@ -907,7 +907,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/desktophero-x1.jpg);
+      url(../img/desktophero-x1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -922,7 +922,7 @@ img {
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4)
       ),
-      url(../images/desktophero-x2.jpg);
+      url(../img/desktophero-x2.jpg);
   }
 }
 
