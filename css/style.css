@@ -783,6 +783,31 @@ img {
   display: none;
 }
 
+.modal__button-close {
+  display: inline-flex;
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  top: 8px;
+  right: 8px;
+  fill: currentColor;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 50%;
+  background-color: #fff;
+  cursor: pointer;
+}
+.modal-icon-close {
+  padding-left: 3px;
+  padding-top: 3px;
+}
+.modal__button-close:hover,
+.modal__button-close:focus {
+  color: var(--blue);
+  border-color: var(--blue);
+}
+
 @media screen and (min-width: 768px) {
   .header__contacts {
     display: flex;
