@@ -1112,7 +1112,7 @@ img {
   margin: 0 auto;
 }
 
-.duty__team {
+.clients__title-clients {
   text-align: center;
   margin-bottom: 30px;
   font-size: 28px;
@@ -1123,7 +1123,7 @@ img {
 }
 
 @media screen and (min-width: 1200px) {
-  .duty__team {
+  .clients__title-clients {
     font-size: 36px;
     font-weight: 700;
     line-height: 1.16;
@@ -1397,7 +1397,7 @@ img {
   color: #757575;
 }
 
-.footer {
+.bg-footer {
   color: rgba(255, 255, 255, 0.6);
   background-color: #2f303a;
   padding-top: 60px;
@@ -1504,18 +1504,18 @@ img {
 }
 
 @media screen and (max-width: 767px) {
-  .footer__flex {
+  .soc-info {
     margin-bottom: 60px;
   }
 }
 
 @media screen and (min-width: 1200px) {
-  .footer__flex {
+  .soc-info {
     margin-right: 93px;
   }
 }
 
-.felx__h3 {
+.footer-subscr {
   color: #ffffff;
   margin-bottom: 20px;
   font-size: 14px;
@@ -1525,7 +1525,7 @@ img {
 }
 
 @media screen and (max-width: 1199px) {
-  .felx__h3 {
+  .footer-subscr {
     text-align: center;
   }
 }
